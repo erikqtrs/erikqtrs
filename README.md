@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @erikqtrs from Ecuador
-- 👀 I’m interested in Blockchain, Data Analysis, Data Engineering,
- Big Data, Machine Learning and Web Development
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on ...
+- 📊 Data Science | Machine Learning | AI
+- 🌱 I’m currently learning Machine Learning
+- 🌏 Inthe future I want to learn about Blockchain.
 - 📫 How to reach me:
  Email: erik.anndy@gmail.com
+Instagram: @erik_anndy
 
 <!---
 erikqtrs/erikqtrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
